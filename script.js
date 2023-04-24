@@ -26,10 +26,10 @@ const sr = ScrollReveal({
 
 
 
-sr.reveal('.home-text,.portfolio', {delay:100, origin: 'left' ,distance: '150px'})
+sr.reveal('.home-text,.portfolio,.contact', {delay:100, origin: 'left' ,distance: '150px'})
 
 
-sr.reveal('.about,.services,.contact', {delay:100, origin: 'right',distance: '150px'})
+sr.reveal('.about,.services', {delay:100, origin: 'right',distance: '150px'})
 
 
 
